@@ -15,3 +15,9 @@ Storybook открыть вручную в браузере на 9001 порту
   Винецкий Фёдор
   Константин Погодин
   Наталья Груздева
+  
+  
+ 1) git clone git@github.com:Fedor73/react-trainee.git
+ 2) cd react-trainee/
+ 3) yarn
+ 4) yarn start
